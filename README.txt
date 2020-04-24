@@ -4,14 +4,14 @@
 ********************************@author ABDERRAHIM AMALOU & ZINEB EL KACIMI********************************
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________
 											     |
 In this folder:										     |
 	-  The project									     |
-	-  testScripts folder is for testing all instruction of this projects.				     |
-	-  README.txt description of the project							     |
+	-  testScripts folder is for testing all instruction of this projects.		     |
+	-  README.txt description of the project					     |
 											     |
-________________________________________________________________________________________________________________________|
+_____________________________________________________________________________________________|
 
 In this applet you can perform like an ACOS3 card by sending APDU corresponding to some instructions defined in this 
 applet.
